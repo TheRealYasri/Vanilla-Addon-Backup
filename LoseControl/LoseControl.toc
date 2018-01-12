@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: LoseControl
+## Notes: Addon used to test functionality on private server
+## SavedVariablesPerCharacter: LoseControlDB
+LoseControl.xml
